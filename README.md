@@ -1,9 +1,10 @@
-- 👋 Hola, Soy Antonia Chica data scientist y data analyst
-- 👀 Estoy interesado en data science. También estoy buscando activamente oportunidades de trabajo abiertas.
-- 🌱Me interesa el Machine Learning y sus aplicaciones así como el marketing. Busco colaborar en proyectos interesantes en la ciencia de datos en R, Python y SQL.Y me encantaría trabajar en este tipo de proyecto.
+- 👋 Hola, Soy Antonia Chica graduada en Estadística y Empresa y especializada en Data Science y Data Analyst.
+- 👀 Estoy interesada en el mundo del Data Science y el Big Data. También estoy buscando activamente oportunidades de trabajo abiertas relacionadas con mis estudios.
+- 🌱Me interesa el Machine Learning y sus aplicaciones. Busco colaborar en proyectos interesantes en la ciencia de datos en R, Python y SQL.Y me encantaría trabajar en este tipo de proyecto.
 - 📫 Si te interesa contactar conmigo puedes hacerlo en: antchicadiaz@gmail.com
-- Mi linkedin: www.linkedin.com/in/antoñichicadíaz/
-Mi linkedin: www.linkedin.com/in/antoñichicadíaz/
+- 📄Mi linkedin: www.linkedin.com/in/antoñichicadíaz/
+  https://www.python.org/
+
 
 <!---
 Antchica/Antchica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
