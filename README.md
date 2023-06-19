@@ -3,7 +3,7 @@
 - 🌱Me interesa el Machine Learning y sus aplicaciones. Busco colaborar en proyectos interesantes en la ciencia de datos en R, Python y SQL.Y me encantaría trabajar en este tipo de proyecto.
 - 📫 Si te interesa contactar conmigo puedes hacerlo en: antchicadiaz@gmail.com
 - 📄Mi linkedin: www.linkedin.com/in/antoñichicadíaz/
-  https://www.python.org/
+ 
 
 
 <!---
