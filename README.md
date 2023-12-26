@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ⁣⁣Hola! Soy Antoñi<br>👤 Estadística y Científica de datos con más de un año de experiencia en proyectos de Machine Learning y Analítica de datos<br>🌱 Actualmente trabajo como analista de datos, dando soporte a todo el grupo Petroprix<br>📧 Si quieres contactar conmigo puedes hacerlo por Linkedin o enviarme un mail a antchicadiaz@gmail.com<br>📊 En mis repositorios vas a encontrar contenido sobre el análisis de datos que he ido aprendiendo a lo largo de mi carrera profesional: SQL, python, estadística, machine learning y visualización de datos<br><br><br>👏 ¡Por favor, dame un ⭐️ si te gustan mis repositorios! 
+👋 ⁣⁣Hola! Soy Antoñi<br>👤 Estadística y Científica de datos con más de un año de experiencia en proyectos de Machine Learning y Analítica de datos<br>🌱 Actualmente trabajo como analista de datos, dando soporte a todo el grupo Petroprix<br>📧 Si quieres contactar conmigo puedes hacerlo por Linkedin o enviarme un email a antchicadiaz@gmail.com<br>📊 En mis repositorios vas a encontrar contenido sobre el análisis de datos que he ido aprendiendo a lo largo de mi carrera profesional: R, SQL, python, estadística, machine learning y visualización de datos<br><br><br>👏 ¡Por favor, dame un ⭐️ si te gustan mis repositorios! 
 
 
 ## 🌐 Socials:
