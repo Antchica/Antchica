@@ -16,3 +16,8 @@
 [![](https://visitcount.itsvg.in/api?id=Antchica&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Antchica&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
